@@ -1,6 +1,6 @@
 # Channel-Attribution-Modeling-in-Marketing
 An e-commerce company conducted a survey and collected data from its customers. This can be considered as representative population. In the survey, the company collected data about the various touch points where customers visit before finally purchasing the product on its website.<br><br>
-we need to help the e-commerce company in identifying the right strategy for investing in marketing channels. Which channels should be focused on? Which channels should the company invest in? We’ll figure this out using R
+We need to help the e-commerce company in identifying the right strategy for investing in marketing channels. Which channels should be focused on? Which channels should the company invest in? We’ll figure this out using R
 # Markov Chains
 Markov chains is a process which maps the movement and gives a probability distribution, for moving from one state to another state. A Markov Chain is defined by three properties:
 
