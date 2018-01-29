@@ -6,3 +6,6 @@ Markov chains is a process which maps the movement and gives a probability distr
 - State space – set of all the states in which process could potentially exist
 - Transition operator –the probability of moving from one state to other state
 - Current state probability distribution – probability distribution of being in any one of the states at the start of the process
+
+# Datasets
+You can download it from dropbox:https://www.dropbox.com/s/wi907ms4h4cl1p0/Channel_attribution.csv?dl=0
